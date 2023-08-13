@@ -6,12 +6,15 @@ log(`GTK version is ${gtk_major_version}.${gtk_minor_version}`);
 
 class Extension {
     constructor() {
+		log('construct');
     }
 
     enable() {
+		log('enable');
     }
 
     disable() {
+		log('disable');
     }
 }
 

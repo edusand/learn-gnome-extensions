@@ -1,0 +1,8 @@
+{
+  "name": "Dev",
+  "description": "Just learning GNOME tech",
+  "uuid": "dev@edsand.io",
+  "shell-version": [
+    "44"
+  ]
+}
